@@ -1,0 +1,3 @@
+﻿  main_prac6.cpp
+c:\users\cg02\desktop\practicas\practica6\cgp6\cgp6\main_prac6.cpp(55): warning C4838: la conversión de 'double' en 'GLfloat' requiere una conversión de restricción
+  CGP6.vcxproj -> C:\Users\CG02\Desktop\Practicas\practica6\CGP6\Debug\CGP6.exe
